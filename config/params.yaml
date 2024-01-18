@@ -1,4 +1,3 @@
-ECHO is on.
 base:
   project: Wafer-Quality-Project
   random_state: 42
